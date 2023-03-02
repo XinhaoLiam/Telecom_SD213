@@ -1,0 +1,22 @@
+Basic Grammer Check
+
+case 1 : the dog barks
+case 2 : the dog bark
+
+Conjunction
+
+case 1 : the dog and the neighbour grumble
+case 2 : the dog or the neighbour grumbles
+case 3 : you and i talk
+case 4 : i and you talk
+
+Relative clause
+
+case 1 : i hate the dog that barks
+case 2 : i hate the dogs that bark at the neighbour
+case 3 : i like who my sister gives the dog to (00)
+case 4 : who i talk to about my sister hates the neighbour
+
+Conclusion:
+
+case : who i like hates the dog that barks at my sister and my cousin 
